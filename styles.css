@@ -1,0 +1,11 @@
+#tvSold {
+    color: forestgreen;
+}
+
+#tvInStock{
+    color: blue;
+}
+
+#tvLeft{
+    color: red;
+}
